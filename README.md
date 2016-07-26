@@ -1,2 +1,2 @@
 # xixiguagua.github.io
-xixiguagua.github.io
+xixiguagua blog
